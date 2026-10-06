@@ -1,4 +1,4 @@
-# Paprika — vectorisation de l'affiche
+# Paprika vectorielle
 
 ![Aperçu](preview.jpg)
 
